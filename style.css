@@ -1,0 +1,105 @@
+body{
+  background-color: #D8C699;
+  color: #FF5500;
+  font-size: 35px;
+  font-family: 'Rajdhani', sans-serif;
+  margin: 0;
+}
+
+#logo{
+  height: 8px;
+  width: 5px;
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+
+#banner{ 
+  align-content: middle;
+  margin-left: 120px;
+  margin-bottom: 50px;
+  margin-top: 70px;
+  color: #FF5500;
+  border-bottom: 4px solid #BB4408;
+   }
+
+
+#banner h1{
+  font-weight: bold;
+  font-size: 60px;
+}
+   
+#app2{ 
+  left:1000px;
+  top:42px;
+  height:  50px;
+  width: 50px;
+  margin-right: 150px;
+  margin-top: 60px;
+  float: right;
+ }
+
+#tagline{
+  margin-top: 70px;
+  color: #FF5500;
+  font-weight: bold;
+  font-size: 45px;
+  text-align: right;
+}
+
+#moto{
+  color: #FF5500
+}
+
+#moto h1{
+    margin-top: 20px;
+    font-size:25px;
+    padding-top: 30px;
+    text-align: right;
+}
+
+#moto img{
+  height: 80px;
+  width: 70px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+#bouton{
+margin-left: 410px;
+color: #FF5500
+font-size:30px;
+}
+
+  #bouton a{
+color: #FF5500
+   }
+
+#bouton a:hover{
+  color:#BB4408;
+  font-weight:bold;
+}
+
+#footer{
+  margin-top: 40px;
+  padding-bottom: 50px;
+  height: 20px;
+  float: right;
+}
+   #footer a {
+color: #FF5500;
+height: 10px;
+   }
+
+#footer a:hover {
+  color: #BB4408;
+}
+
+
+
+
+   img{ width: 1000%;
+   height: 1000%;
+   padding padding-right:  3%;
+   margin-top: 3%; }
